@@ -17,5 +17,5 @@ db:
   environment:
     MYSQL_DATABASE: myapp
     MYSQL_USER: myapp
-    MYSQL_PASSWORD: mysecurepass
-    MYSQL_ROOT_PASSWORD: securerootpass
+    MYSQL_PASSWORD: mysecurepass1
+    MYSQL_ROOT_PASSWORD: securerootpass1
